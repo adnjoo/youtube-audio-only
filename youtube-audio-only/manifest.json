@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Youtube Audio Only",
   "description": "This extension plays only the audio of a YouTube video.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icons": {
     "16": "./icons/icon16.png",
     "48": "./icons/icon48.png",
