@@ -1,6 +1,8 @@
 # Youtube Audio Only
 Description: Play audio only of YouTube video
 
+![](/assets/screen.jpg)
+
 ### Alternative install:
 
 1.
