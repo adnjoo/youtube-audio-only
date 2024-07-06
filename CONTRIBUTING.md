@@ -39,14 +39,6 @@ We appreciate your help in reviewing pull requests. To ensure quality and securi
 - Verify that the changes are necessary and improve the project.
 - Ensure no zip files or other binary files are included unless absolutely necessary and properly justified.
 
-## Code of Conduct
-
-By participating in this project, you agree to uphold our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it to understand the standards expected in our community.
-
-## Security
-
-Security is a top priority. If you discover a security vulnerability, please report it to us directly. Do not open an issue or PR for security-related concerns.
-
 ## Getting Started
 
 1. Fork the repository.
@@ -73,7 +65,3 @@ Security is a top priority. If you discover a security vulnerability, please rep
 If you have any questions, feel free to open an issue or contact the repository maintainers.
 
 Thank you for contributing!
-
----
-
-Feel free to customize this document to better fit the specifics of your project.
